@@ -89,7 +89,6 @@
        gap: 8px;
      "
 >
-  <!-- Example badges: Replace or rearrange as needed -->
   <img src="https://img.shields.io/badge/-C-000?&logo=C" alt="C" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" alt="C++" />
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python" />
